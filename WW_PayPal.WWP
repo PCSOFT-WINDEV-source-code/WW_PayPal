@@ -1,0 +1,191 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_PayPal
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : This site uses the PayPal component
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : PayPal application
+    internal_properties : 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
+    configuration_id : 3250036662893319304
+    type : 3
+    generation_directory : .\Exe\PayPal application
+    generation_name : Component_PayPal_-_Example
+    version : {}
+    language : 2
+    64bits : true
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAAAX4yRe5faH6zOrPog5fO0wxcsgcOHifzgvQxXr9vOibj4z1rEyD8teR2AvVyz+MpHLf0FUFFYwwtoYFA==
+  -
+    name : PayPal component
+    internal_properties : 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
+    configuration_id : 3293210590314371612
+    type : 4
+    generation_directory : .\Exe\PayPal component
+    version : {}
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x4ac4d539002993e9
+  elements :
+   -
+     name : PAGE_Example_ReturnOK
+     identifier : 0x453cc33100019bb5
+     internal_properties : CAAAAAgAAAA6EGKmBULq9f3rfSNNtGl+ZFWz2+vWdr1KKO/cfocVM50F4N41gzZFnoV/eTm3Q7UfJw==
+     physical_name : .\PAGE_Example_ReturnOK.wwh
+     type : 65538
+     configurations :
+      -
+        configuration_id : 3293210590314371612
+        excluded : true
+   -
+     name : PAGE_ExampleReturnPage
+     identifier : 0x48d8b5f20002c708
+     internal_properties : CAAAAAgAAAB82lRAfySMn6u1G82vn3sMFlllpZFxCymCXhfscd6+WqYU8c1bpVRj+C+pF59RKZ9p6Q==
+     physical_name : .\PAGE_ExampleReturnPage.wwh
+     type : 65538
+     configurations :
+      -
+        configuration_id : 3293210590314371612
+        excluded : true
+   -
+     name : PAGE_SimpleExample
+     identifier : 0x48d8b29400019fd9
+     internal_properties : CAAAAAgAAADAvjhkQzhwq7fRNxkbnHsUGl/Z2Q/XetSyEvaNKBd9Y6kV9MpfWQCP1Eu1A4N9BfvFTQ==
+     physical_name : .\PAGE_SimpleExample.wwh
+     type : 65538
+     configurations :
+      -
+        configuration_id : 3293210590314371612
+        excluded : true
+   -
+     name : PAGE_CustomizationExample
+     identifier : 0x48d8b66e0003ac38
+     internal_properties : CAAAAAgAAAA4FmC8izB4o6+Z7zFDtm9QCrvRWXOj+V+y0jxHBjlThbdPuuQ3gSi3DDOtC4tFPbMdJQ==
+     physical_name : .\PAGE_CustomizationExample.wwh
+     type : 65538
+     configurations :
+      -
+        configuration_id : 3293210590314371612
+        excluded : true
+   -
+     name : PAGETPL_Simple
+     identifier : 0x41068b5d00b922e3
+     internal_properties : CAAAAAgAAAB3019DYN1VVmBOpGoEMObfJVYAIC421/auQ3hDqJf/McdlQmy+Ou/8Qfji3qZaJppi4g==
+     physical_name : .\PAGETPL_Simple.wwt
+     type : 65541
+     configurations :
+      -
+        configuration_id : 3293210590314371612
+        excluded : true
+   -
+     name : PAGE_Example_ReturnCancel
+     identifier : 0x453cc3840002deb5
+     internal_properties : CAAAAAgAAAAdeXUplsNrdML8TpDi1LjNWyiW/jaJb/NOa+Xe0iPzDffZMgwY4IkWr5YA+Lgo0MAICA==
+     physical_name : .\PAGE_Example_ReturnCancel.wwh
+     type : 65538
+     configurations :
+      -
+        configuration_id : 3293210590314371612
+        excluded : true
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components :
+   -
+     physical_name : .\Paypal\Paypal.wci
+ wb_skin : 170 eSpring
+ wb_color_palette : Yucca & Light
+ languages :
+  - en-GB
+ wd_style_sheet : .\Component_PayPal_-_Example.sty
+ wb_style_sheet : .\PayPal_component.wws
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_CustomizationExample
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_ExampleReturnPage
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_Example_ReturnCancel
+     parameters : []
+     title :
+      fr-FR : WW_PayPal - Annulation de paiement
+      en-GB : WW_PayPal - Canceling the payment
+     description :
+      fr-FR : WW_PayPal - Annulation de paiement
+      en-GB : WW_PayPal - Canceling the payment
+   -
+     name : PAGE_Example_ReturnOK
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_SimpleExample
+     parameters : []
+     title : {}
+     description : {}
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAABp9jn6Fjii2uUG4mCVCIxf0yQDorZvTi5PecApHJe43NbBNkvtzAmSTNKPP1q+PvttglTE4UilpJ3ZEQeiRNdVZjxf533E6c87/ZPrypJHaD1d8QnwykjZ
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADbnYIYxbeihk8cDwpkr0DJI738DIjN03sf0vOAWIWv/wFsLtjD4NF9OHPzxMhmLT732mog4LSqTNY1YFVo6JbsZZksU21EQCA8Jho0HurQIkNxMAuig87PGEBFHB/5T/zNnR/pio+Nw7QGJ3w=
+     code : |1+
+      gsAccount is string
+      
+      //
+      // START IN PAYPAL TEST MODE
+      // - to actually perform the payments, run EnableTestMode() with <bTestMode> set to False: PayPal.EnableTestMode(False)
+      // - don't forget to specify your user account (your email address): PayPal.PayPalUserAccount("email@domain.com")
+      EnableTestMode(True)
+      
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : PayPal application
+     identifier : 0x4ac4d539003294d3
+     code_elements :
+      type_code : 159
+      p_codes : []
+   -
+     name : PayPal component
+     identifier : 0x453fa84f015ef46c
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
